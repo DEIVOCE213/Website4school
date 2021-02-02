@@ -6,7 +6,7 @@ body{
   font-size:24px;
   font-family:Verdana, Charcoal, sans-serif;
   background-color: #dcdcdc;
-    color: #dcdcdc;
+  color: #dcdcdc;
 
 }
 /*nav bar*/
@@ -24,11 +24,16 @@ nav li{
 main{
   background-color:#3b444b;
   padding: 10px 25px;
-  min-width: 300px;
-  margin: 0px 10%;
   text-align: center;
   vertical-align: middle;
-  min-height: 1000px;
+  min-height: 2000px;
+}
+.whole_page{
+margin-left: auto;
+margin-right: auto;
+width: 800px;
+
+
 }
 footer{
     background-color:#000000;
