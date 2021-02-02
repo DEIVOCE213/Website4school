@@ -31,13 +31,12 @@ main{
 .whole_page{
 margin-left: auto;
 margin-right: auto;
-width: 800px;
+max-width: 800px;
 }
 video{
   margin: 20px;
   max-width: inherit content;
 }
-
 
 footer{
     background-color:#000000;
