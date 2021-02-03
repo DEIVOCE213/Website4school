@@ -11,9 +11,11 @@ body{
 }
 /*nav bar*/
 header{
+  position: sticky;
+  top: 0px;
   background-color:#000000;
   justify-content: space-between;
-  padding: 10px 10%;
+  padding: 1px 10%;
 }
 /*nav buttons*/
 nav li{
@@ -35,6 +37,7 @@ a.linkNav:visited{
 a.linkNav:hover{
   color:#ffffff;
 }
+
 
 main{
   background-color:#3b444b;
